@@ -1,0 +1,8 @@
+topLeftX=-100
+topLeftY=200
+visibility=10
+shieldRepairTime=15
+weaponReloadTime=10
+mineSetTime=20
+maxShieldStrength=5
+
